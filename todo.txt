@@ -1,0 +1,5 @@
+- Setting Database
+- Make Migration + Models
+- Make Controllers + Function CRUD + Logic
+- Make Middleware + Config
+- Setting Up routes/api.php
